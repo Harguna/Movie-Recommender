@@ -20,3 +20,4 @@ All original and derived data files used in the project
 2. Personalization_project_ALS.ipynb - Contains code as well as results on our model-based recommendations, using ALS
 3. 
 4. 
+5. kNN Results.pdf - Results showing the accuracies metrics obtained with different values of the hyperparameter k in k-Nearest Neighbors
